@@ -1,4 +1,6 @@
 Dagsdubcecwenc
 NEW LINE vbeerbviuehb
 NEW LINE 233wfrenf
-
+New line for stash
+New line after reset
+New line for amend
